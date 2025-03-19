@@ -2,35 +2,35 @@
   {
     "ID": 1,
     "Subject": "Subject1",
-    "Campus": "CampusA",
+    "Campus": "Cambridge",
     "EventName": "Event 1A",
     "KeyStage": "KS1"
   },
   {
     "ID": 2,
     "Subject": "Subject2",
-    "Campus": "CampusA",
+    "Campus": "Chelmsford",
     "EventName": "Event 2B",
     "KeyStage": "KS2"
   },
   {
     "ID": 3,
     "Subject": "Subject3",
-    "Campus": "CampusA",
+    "Campus": "Peterborough",
     "EventName": "Event 3C",
     "KeyStage": "KS3"
   },
   {
     "ID": 4,
     "Subject": "Subject4",
-    "Campus": "CampusA",
+    "Campus": "Writtle",
     "EventName": "Event 4D",
     "KeyStage": "KS4"
   },
   {
     "ID": 5,
     "Subject": "Subject5",
-    "Campus": "CampusA",
+    "Campus": "Cambridge",
     "EventName": "Event 5E",
     "KeyStage": "KS5"
   }
