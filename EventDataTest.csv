@@ -1,37 +1,37 @@
 [
   {
     "ID": 1,
-    "Subject": "Psychology and Mental Health",
-    "Campus": "Chelmsford",
-    "EventName": "15/10/25 Psychology Taster Day",
-    "KeyStage": "KS5"
+    "Subject": "Subject1",
+    "Campus": "CampusA",
+    "EventName": "Event 1A",
+    "KeyStage": "KS1"
   },
   {
     "ID": 2,
-    "Subject": "Psychology and Mental Health",
-    "Campus": "Chelmsford",
-    "EventName": "12/11/25 Psychology Taster Day",
-    "KeyStage": "KS5"
+    "Subject": "Subject2",
+    "Campus": "CampusB",
+    "EventName": "Event 2B",
+    "KeyStage": "KS2"
   },
   {
     "ID": 3,
-    "Subject": "Psychology and Mental Health",
-    "Campus": "Chelmsford",
-    "EventName": "11/02/26 Psychology Taster Day",
-    "KeyStage": "KS5"
+    "Subject": "Subject3",
+    "Campus": "CampusC",
+    "EventName": "Event 3C",
+    "KeyStage": "KS3"
   },
   {
     "ID": 4,
-    "Subject": "Psychology and Mental Health",
-    "Campus": "Chelmsford",
-    "EventName": "04/03/26 World Engineering Day - Engineering and Built Environment Taster Day",
-    "KeyStage": "KS5"
+    "Subject": "Subject4",
+    "Campus": "CampusD",
+    "EventName": "Event 4D",
+    "KeyStage": "KS4"
   },
   {
     "ID": 5,
-    "Subject": "Psychology and Mental Health",
-    "Campus": "Chelmsford",
-    "EventName": "24/06/26 Engineering and Built Environment Taster Day",
+    "Subject": "Subject5",
+    "Campus": "CampusE",
+    "EventName": "5E",
     "KeyStage": "KS5"
   }
 ]
