@@ -1,4 +1,4 @@
-[
+ent [
   {
     "ID": 1,
     "Subject": "Subject1",
@@ -31,7 +31,7 @@
     "ID": 5,
     "Subject": "Subject5",
     "Campus": "CampusE",
-    "EventName": "5E",
+    "EventName": "Event 5E",
     "KeyStage": "KS5"
   }
 ]
