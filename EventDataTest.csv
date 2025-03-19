@@ -1,6 +1,6 @@
-id,subject,campus,eventname,keystage
-1,Subject1,Campus1,TasterDay1,KS1
-2,Subject2,Campus2,TasterDay2,KS2
-3,Subject3,Campus3,TasterDay3,KS3
-4,Subject4,Campus4,TasterDay4,KS4
-5,Subject5,Campus5,TasterDay5,KS5
+id,subject,campus,eventname,keystage,
+1,Subject1,Campus1,TasterDay1,KS1,
+2,Subject2,Campus2,TasterDay2,KS2,
+3,Subject3,Campus3,TasterDay3,KS3,
+4,Subject4,Campus4,TasterDay4,KS4,
+5,Subject5,Campus5,TasterDay5,KS5,
