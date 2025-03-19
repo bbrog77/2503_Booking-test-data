@@ -1,4 +1,4 @@
-ent [
+[
   {
     "ID": 1,
     "Subject": "Subject1",
@@ -9,28 +9,28 @@ ent [
   {
     "ID": 2,
     "Subject": "Subject2",
-    "Campus": "CampusB",
+    "Campus": "CampusA",
     "EventName": "Event 2B",
     "KeyStage": "KS2"
   },
   {
     "ID": 3,
     "Subject": "Subject3",
-    "Campus": "CampusC",
+    "Campus": "CampusA",
     "EventName": "Event 3C",
     "KeyStage": "KS3"
   },
   {
     "ID": 4,
     "Subject": "Subject4",
-    "Campus": "CampusD",
+    "Campus": "CampusA",
     "EventName": "Event 4D",
     "KeyStage": "KS4"
   },
   {
     "ID": 5,
     "Subject": "Subject5",
-    "Campus": "CampusE",
+    "Campus": "CampusA",
     "EventName": "Event 5E",
     "KeyStage": "KS5"
   }
